@@ -6,7 +6,7 @@ A fully local Retrieval-Augmented Generation (RAG) chatbot that answers question
 
 ## Interface
 
-![Knowbase UI](assets/screenshot.png)
+![Knowbase UI](assets/Screenshot.png)
 
 The interface is split into two panels. The left sidebar handles document ingestion via file upload, URL fetch, or pasted notes, and lists all indexed sources with their chunk counts. The right panel is the chat area where questions are typed and answers stream in token by token. Each response is followed by a Confidence Meter showing the similarity score, confidence level, and a breakdown of which source documents contributed to the answer.
 
